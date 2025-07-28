@@ -166,6 +166,8 @@ python-honeypot/
 ├── reports/
 │   └── ip_geolocation.png
 ```
+### GeoIP Database Setup
+To use the GeoIP features, download the GeoLite2-City.mmdb from [MaxMind](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data?lang=en) and place it in the `/config/` folder.
 
 ---
 
