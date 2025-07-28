@@ -1,0 +1,5 @@
+{
+  "port": 2222,
+  "log_path": "logs/honeypot.log",
+  "banner": "SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3"
+}
