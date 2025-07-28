@@ -1,0 +1,6 @@
+Attacker Activity Summary
+======================
+IP Frequency:
+  127.0.0.1: 8 connections
+
+Command Frequency:
